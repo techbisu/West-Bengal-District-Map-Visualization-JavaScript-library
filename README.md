@@ -1,6 +1,7 @@
 # West-Bengal-District-Map-Visualization-JavaScript-library
 West Bengal District Map Visualization JavaScript library easy ways of displaying statistical data on maps
 
+<img src="https://github.com/techbisu/West-Bengal-District-Map-Visualization-JavaScript-library/raw/main/wbmapview.png"/>
 
 # Step-1
   download wbmap.min.js & wbsvg.svg 
