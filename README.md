@@ -4,9 +4,9 @@ West Bengal District Map Visualization JavaScript library easy ways of displayin
 <img src="https://github.com/techbisu/West-Bengal-District-Map-Visualization-JavaScript-library/raw/main/wbmapview.png"/>
 
 # Step-1
-  download wbmap.min.js & wbsvg.svg 
+  download wbmap.min.js
   
-  then upload this 2 file in your project js folder & include the wbmap.min.js in your html body
+  then upload this file in your project js folder & include the wbmap.min.js in your html body
   
   like this
   
